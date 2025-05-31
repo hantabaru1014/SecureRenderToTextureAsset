@@ -1,6 +1,13 @@
 # SecureRenderToTextureAsset
 
+> [!NOTE]
+> 2025.5.30.1277 で修正されたのでこのMODは不要です！
+
 AFK状態のワールドにある `RenderToTextureAsset` がフォーカス中のワールドのスクショをレンダリングしてしまうのを防ぐMod
+
+
+> [!NOTE]
+> This issue has been fixed in 2025.5.30.1277, so this MOD is no longer necessary!
 
 Mod that prevents `RenderToTextureAsset` in an AFK world from rendering screenshots of the focused world.
 
